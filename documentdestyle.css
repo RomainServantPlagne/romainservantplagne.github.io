@@ -1,0 +1,13 @@
+#main {
+	width: 1200px;
+	height: 60px;
+}
+
+html {
+	background-image: url(Images/Background.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+
+}
+
+
